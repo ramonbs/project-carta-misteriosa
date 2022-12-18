@@ -1,4 +1,4 @@
-# sd-027-a-project-carta-misteriosa
+# project-carta-misteriosa
 
 ------------------------------------------------------------------------
 
